@@ -1,0 +1,21 @@
+{
+  "name": "tea-sorting",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "word-counter-tea": "^1.0.0",
+    "simple-uteals": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiohardadi/tea-sorting.git"
+  }
+}
